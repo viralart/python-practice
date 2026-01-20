@@ -1,6 +1,6 @@
 nums = int(input("Enter a number: "))
 
-factorial = 0
+factorial = 1
 
 for el in range(1, nums+1):
     factorial *= el
